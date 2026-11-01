@@ -11,9 +11,14 @@ software on the Microsoft platform for enterprise, healthcare and logistics team
 - **[ClinicFlow: safe AI booking for healthcare](https://kylehester.dev/clinicflow/)**: a booking
   assistant where the model interprets and code renders every reply, so no one sees unchecked model
   output. Part of a seven-surface scheduling platform on Dynamics 365.
+  [Try it live →](https://clinicflow.kylehester.dev) ·
   [How it's built →](https://kylehester.dev/clinicflow/how-its-built/)
 - **[Dataverse UI Gallery](https://gallery.kylehester.dev)**: interactive controls and apps, each with
   a live demo of what happens underneath and a one-click deploy to your own org.
+- **[Dataverse Kit: component library](https://components.kylehester.dev)**: the reusable components
+  running live in a curated Storybook, plus a live AI guide built from the kit's own agent components.
+  It answers only from the kit's catalog, and every reply shows what it searched and what was checked.
+  [Ask it →](https://components.kylehester.dev/?path=/story/agent-live--live)
 - **[dataverse-kit](https://github.com/khester1/dataverse-kit)**: the Fluent UI component kits and
   tooling behind them, published on npm as `@dataverse-kit/*`.
 
